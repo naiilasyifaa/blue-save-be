@@ -2,7 +2,7 @@ import { Router } from "express";
 import authRoutes from "./authRoutes";
 import reportRoutes from "./reportRoutes";
 import donationRoutes from "./donationRoutes";
-import newsRoutes from "./newsRoutes";
+#import newsRoutes from "./newsRoutes";
 import eventRoutes from "./eventRoutes";
 
 const router = Router();
